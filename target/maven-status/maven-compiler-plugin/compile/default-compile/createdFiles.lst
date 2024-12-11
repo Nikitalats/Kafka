@@ -1,0 +1,12 @@
+old\GetWatchersService.class
+main\controller\RegisterApplicant.class
+old\GetWatchers.class
+main\service\KafkaMessageProducerService.class
+old\NewRegistersService.class
+main\TestApplication.class
+main\config\KafkaProducerConfiguration.class
+main\service\KafkaMessageConsumerService.class
+old\NewRegistersReceiver.class
+main\config\KafkaConsumerConfiguration.class
+old\ConferenceConsumer.class
+main\controller\GetAllApplicants.class
